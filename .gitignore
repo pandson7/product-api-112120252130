@@ -1,0 +1,3 @@
+# CDK specific ignores are in cdk/.gitignore
+# Lambda node_modules
+lambda/node_modules/
